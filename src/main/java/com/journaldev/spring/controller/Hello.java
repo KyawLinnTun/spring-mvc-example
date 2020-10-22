@@ -1,4 +1,3 @@
 package com.journaldev.spring.controller;
-
-public class Hello {
+  public class Hello {
 }
