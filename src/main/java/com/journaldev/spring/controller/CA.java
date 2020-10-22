@@ -1,2 +1,4 @@
-package com.journaldev.spring.controller;public class CA {
+package com.journaldev.spring.controller;
+
+public class CA {
 }
